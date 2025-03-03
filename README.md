@@ -1,2 +1,2 @@
 # big_data
-Laboratory works Big Data
+Лабораторные работы по дисциплине "Боьлшие данные".
